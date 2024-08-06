@@ -3,7 +3,7 @@ module github.com/planetscale/cli
 go 1.16
 
 require (
-	github.com/AlecAivazis/survey/v2 v2.3.2
+	github.com/AlecAivazis/survey/v2 v2.3.7
 	github.com/benbjohnson/clock v1.3.0
 	github.com/briandowns/spinner v1.16.0
 	github.com/dustin/go-humanize v1.0.0 // indirect
@@ -30,6 +30,6 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/xelabs/go-mysqlstack v1.0.0
 	go.uber.org/zap v1.19.1
-	golang.org/x/sys v0.0.0-20210823070655-63515b42dcdf
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
 	gopkg.in/yaml.v2 v2.4.0
 )
