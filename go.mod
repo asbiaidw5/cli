@@ -8,7 +8,7 @@ require (
 	github.com/briandowns/spinner v1.16.0
 	github.com/dustin/go-humanize v1.0.0 // indirect
 	github.com/fatih/color v1.13.0
-	github.com/frankban/quicktest v1.14.0
+	github.com/frankban/quicktest v1.14.6
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/gocarina/gocsv v0.0.0-20210326111627-0340a0229e98
 	github.com/hashicorp/go-cleanhttp v0.5.2
@@ -22,7 +22,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/pkg/browser v0.0.0-20201112035734-206646e67786
 	github.com/pkg/errors v0.9.1
-	github.com/planetscale/planetscale-go v0.51.0
+	github.com/planetscale/planetscale-go v0.116.0
 	github.com/planetscale/sql-proxy v0.12.0
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/pflag v1.0.5
